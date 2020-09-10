@@ -1,4 +1,7 @@
 <p align="center">
+
+[![Run on Repl.it](https://repl.it/badge/github/santos-jp7/yettz)](https://repl.it/github/santos-jp7/yettz)
+
     <a href="https://github.com/santos-jp7/yettz/" alt="Version">
         <img src="https://img.shields.io/github/package-json/v/santos-jp7/yettz/master" />
     </a>
